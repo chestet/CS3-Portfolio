@@ -1,0 +1,22 @@
+import random
+class Taxi:
+    def __init__(self, passengerSeat=1, fuel=50, money=0):
+        self.passengerSeat = passengerSeat
+        self.fuel = fuel
+        self.money = money
+    
+    def passenger(self, payment):
+        n = random.randint(1,100)
+        if n > 20:
+            print("Your passenger is a normal guy.")
+        elif 21 > n > 5:
+            print("Your passenger is a rich guy!")
+            payment *= 2
+        elif n < 5:
+            print("Your passenger is a celebrity!!!!")
+            payment *= 5
+        elif  n == 100:
+            print("Your passenger is a murderer...")
+            exit()
+            
+    def travel(self, payment, distance)
