@@ -1,4 +1,4 @@
-### **NAME:**  #13 Chester Gabriel A. Rivera
+### **NAME:** Chester Gabriel A. Rivera
 ### **SECTION:** 9-Balingkilat
 ## **LINKS:**
 #### FA1 -> https://github.com/chestet/CS3-Portfolio/blob/main/q1/q1_sg2_a1.md
