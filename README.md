@@ -1,3 +1,4 @@
-### **NAME:** Chester Gabriel A. Rivera
-### **CLASS NUMBER:** 13
+### **NAME:**  #13 Chester Gabriel A. Rivera
 ### **SECTION:** 9-Balingkilat
+### **LINKS**
+
