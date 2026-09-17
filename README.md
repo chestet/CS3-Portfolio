@@ -8,7 +8,7 @@
 #### FA6 -> https://github.com/chestet/CS3-Portfolio/blob/main/q1/q1_sg6_balingkilat_Rivera.py
 #### FA7 -> https://github.com/chestet/CS3-Portfolio/blob/main/q1/q1_sg7_balingkilat_Rivera.py
 ---
-SAMPLE CODE (car) -> https://github.com/chestet/CS3-Portfolio/blob/main/q1/q1_mycar_balingkilat_Rivera.py
-SAMPLE CODE (tusoktusok) -> 
-SAMPLE CODE (cell) -> https://github.com/chestet/CS3-Portfolio/blob/main/q1/samplecode_cells.py
+#### SAMPLE CODE (car) -> https://github.com/chestet/CS3-Portfolio/blob/main/q1/q1_mycar_balingkilat_Rivera.py
+#### SAMPLE CODE (tusoktusok) -> 
+#### SAMPLE CODE (cell) -> https://github.com/chestet/CS3-Portfolio/blob/main/q1/samplecode_cells.py
 
