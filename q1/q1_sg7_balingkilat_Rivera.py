@@ -1,14 +1,15 @@
 class Glassware:                            # Parent Class
     def __init__(self):
-        print("Glassware is created")
+        self.glassware = Glassware
         
 class Beaker(Glassware):                    # Child Class    
     def __init__(self):
+        super().__init__()
+        self.beaker = Beaker
         print("Beaker is created")
 
 class Tray:                                 
     def __init__(self):
-        Glassware()
         print("Tray is created")
         self.tray = []                      # Tray without beakers yet
         for i in range (5):
