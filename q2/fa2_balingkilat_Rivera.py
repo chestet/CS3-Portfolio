@@ -45,5 +45,4 @@ senpatient.calculate_bill()
 print()
 philpatient = PhilHealthPatient("Pedro Reyes", 15000.0)
 philpatient.calculate_bill()
-philpatient = PhilHealthPatient("Pedro Reyes", 15000.0)
-philpatient.calculate_bill()
+
